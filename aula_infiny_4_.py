@@ -14,5 +14,5 @@ else:
     if not encontrou_par:
         print("Não há números pares no intervalo.")
 
-# Exibe o resultado
+ #Exibe o resultado
 print(f"Soma dos números pares no intervalo: {soma_pares}")
