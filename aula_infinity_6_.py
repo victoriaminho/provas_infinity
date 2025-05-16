@@ -1,5 +1,5 @@
-usuario_correto = "admin"
-senha_correta = "1234"
+usuario_correto = "victoria@"
+senha_correta = "1234567"
 
 
 tentativas_restantes = 3
